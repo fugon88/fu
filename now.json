@@ -1,6 +1,6 @@
 {
   "version": 2,
   "routes": [
-      {"src": "/(.*)","dest": "http://wwv.erno.cn/$1"}
+      {"src": "/(.*)","dest": "http://www5.erno.cn/$1"}
   ]
 }
