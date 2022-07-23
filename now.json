@@ -1,6 +1,6 @@
 {
   "version": 2,
   "routes": [
-      {"src": "/(.*)","dest": "http://www.hkis.edu.hk/$1"}
+      {"src": "/(.*)","dest": "https://www.hkis.edu.hk/$1"}
   ]
 }
